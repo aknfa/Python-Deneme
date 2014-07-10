@@ -1,0 +1,4 @@
+Python-Deneme
+=============
+
+Python Denemeleri
